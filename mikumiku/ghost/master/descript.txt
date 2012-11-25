@@ -1,13 +1,13 @@
 charset,Shift_JIS
 
-craftman,SatoM
-craftmanw,サトウ　Ｍ
-craftmanurl,http://sgmh.sakura.ne.jp/tcg/kit/
+craftman,Moguno
+craftmanw,もぐの
+craftmanurl,http://moguno.hatenablog.jp/
 
-name,ゴーストキット
+name,mikutter
 type,ghost
 
-sakura.name,エンゼロ
-kero.name,エンイチ
+sakura.name,ミク
+kero.name,としぁ
 
 shiori,satori.dll
