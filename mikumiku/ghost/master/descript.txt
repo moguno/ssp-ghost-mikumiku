@@ -1,0 +1,13 @@
+charset,Shift_JIS
+
+craftman,SatoM
+craftmanw,サトウ　Ｍ
+craftmanurl,http://sgmh.sakura.ne.jp/tcg/kit/
+
+name,ゴーストキット
+type,ghost
+
+sakura.name,エンゼロ
+kero.name,エンイチ
+
+shiori,satori.dll

@@ -1,0 +1,13 @@
+charset,Shift_JIS
+craftman,SatoM
+id,
+name,master
+type,shell
+craftmanw,サトウ　Ｍ
+craftmanurl,http://sgmh.sakura.ne.jp/tcg/kit/
+
+sakura.balloon.offsetx,20
+sakura.balloon.offsety,0
+kero.balloon.offsetx,-10
+kero.balloon.offsety,20
+

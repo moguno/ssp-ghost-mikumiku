@@ -1,0 +1,7 @@
+
+charset, Shift_JIS
+type,ghost
+name,ゴーストキット
+directory,ghostkit
+
+refresh,1
