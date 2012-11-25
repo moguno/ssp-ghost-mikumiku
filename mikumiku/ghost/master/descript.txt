@@ -1,6 +1,6 @@
 charset,Shift_JIS
 
-craftman,Moguno
+craftman,moguno
 craftmanw,‚à‚®‚Ì
 craftmanurl,http://moguno.hatenablog.jp/
 
