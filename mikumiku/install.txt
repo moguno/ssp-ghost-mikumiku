@@ -1,7 +1,7 @@
 
 charset, Shift_JIS
 type,ghost
-name,ゴーストキット
-directory,ghostkit
+name,mikutter
+directory,mikutter
 
 refresh,1
